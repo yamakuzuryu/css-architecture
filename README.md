@@ -25,7 +25,7 @@ _important links relating to css architecture_
 
 ### 2017
 
-- [A comprehensive guide to design systems](https://www.invisionapp.com/blog/guide-to-design-systems/) 12/1/2017
+- [A comprehensive guide to design systems](https://web.archive.org/web/20171203103946/https://www.invisionapp.com/blog/guide-to-design-systems/) 12/1/2017
 - [Rebuilding slack.com](https://slack.engineering/rebuilding-slack-com-b124c405c193) 10/11/2017
 - [Building a large-scale design system: How we created a design system for the U.S. government](https://web.archive.org/web/20171003163706/https://18f.gsa.gov/2017/10/03/building-a-large-scale-design-system/) 10/3/2017
 - [So you need a CSS utility library?](https://css-tricks.com/need-css-utility-library/) 08/24/2017
@@ -69,7 +69,7 @@ _important links relating to css architecture_
 
 - [CSS Architecture](https://philipwalton.com/articles/css-architecture/) 11/16/2012
 - [CSS Architecture - Appfolio Engineering](https://engineering.appfolio.com/2012/11/16/css-architecture/) 11/15/2012
-- [SOLID CSS](https://blog.millermedeiros.com/solid-css/) 09/10/2012
+- [SOLID CSS](https://web.archive.org/web/20120913060530/https://blog.millermedeiros.com/solid-css/) 09/10/2012
 - [Shoot to kill: CSS selector intent](https://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/) 07/17/2012
 - [The open/closed principle applied to CSS](https://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/) 06/21/2012
 - [Keep your CSS selectors short](https://csswizardry.com/2012/05/keep-your-css-selectors-short/) 05/15/2012
